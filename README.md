@@ -5,6 +5,9 @@ All I ask is a measly little star on GitHub so I can get the badge D:
 ![image](https://github.com/user-attachments/assets/e44362e6-c395-4c31-ae51-535962a150e8)
 
 
+[Check out my other addon on Curse, Combat Mode](https://www.curseforge.com/wow/addons/combat-mode)
+
+
 ## Instructions
 1. Go to Releases
    
