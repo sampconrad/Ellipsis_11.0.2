@@ -1,0 +1,34 @@
+## Interface: 100100
+## X-Min-Interface: 100100
+## Title: Ellipsis Classic (|cff67b1e9K|cff4779ceith|cff67b1e9M|cff4779ceod|r)
+## Notes: A full-featured, multi-target Aura (DoTs and HoTs) tracker.
+## Author: Kith, En1ropy (Retail)
+## Version: 1.0
+## SavedVariables: EllipsisDB, EllipsisVersion
+## OptionalDeps: Ace3, LibSharedMedia-3.0, LibSink-2.0
+## X-Embeds: Ace3, LibSharedMedia-3.0, LibSink-2.0
+## X-Category: Interface Enhancements
+## IconTexture: Interface\AddOns\Ellipsis\IconBorder
+
+embeds.xml
+
+Locales\Local_enUS.lua
+## Locales\Local_deDE.lua
+## Locales\Local_frFR.lua
+## Locales\Local_zhCN.lua
+## Locales\Local_zhTW.lua
+
+Core.lua
+Defaults.lua
+
+Anchor.lua
+Overlays.lua
+Aura.lua
+Unit.lua
+
+AuraData.lua
+Control.lua
+
+Cooldown.lua
+
+Notify.lua
