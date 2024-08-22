@@ -1,7 +1,5 @@
 User PrivatePauler0815 on Reddit [kindly asked if anyone could fix it for TWW (11.0.2)](https://www.reddit.com/r/wow/comments/1eudvgv/luaerror_ellipsis_addon/) so here you go: 
 
-All I ask is a measly little star on GitHub so I can get the badge D:
-
 ![image](https://github.com/user-attachments/assets/e44362e6-c395-4c31-ae51-535962a150e8)
 
 
